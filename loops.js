@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 function forLoop(array){
   for (let i = 0; i < 25; i++) {
     if (i === 1){
@@ -8,6 +9,8 @@ function forLoop(array){
 return array
 }
 
+=======
+>>>>>>> 8b78051800bb508640f7d74679fc3c2e1903defb
 
 
 
